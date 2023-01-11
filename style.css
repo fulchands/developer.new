@@ -155,12 +155,12 @@ color: #151414;
  }
  .sub-con{
     position: absolute;
-    width: 485px;
+    width: 285px;
     height: 317px;
-    left: 230px;
-    top: 130px;
+    left: 5px;
+    top: 50px;
     color: #FFFFFF;
-    font-size: 15px;
+    font-size: 25px;
  }
  .form{
     position: absolute;
